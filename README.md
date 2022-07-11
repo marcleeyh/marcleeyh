@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcleeyh
-- 👀 I’m interested in music, soccer and chilling out
-- 🌱 I’m currently honing my craft in data analytics and visualization skills with Python, SQL and Tableau
+- 👀 I am fascinated by math, data science and engineering
+- 🌱 I’m currently honing my craft in data analytics and Machine Learning with Python, SQL and Tableau
 
 <!---
 marcleeyh/marcleeyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
